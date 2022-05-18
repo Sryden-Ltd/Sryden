@@ -1,6 +1,6 @@
 <template>
 <section id="services" class="container mx-auto flex flex-wrap">
- <div class="lg:w-1/3 md:w-1/2 w-full p-4 ">
+ <div class="lg:w-1/3 md:w-1/2 w-full p-4">
         <div class="p-8 rounded-xl shadow-md bg-white">
             <h4> Backend Development </h4>
             <h5 class="text-5xl font-bold py-2 text-gray-500"> £499.99*</h5>
