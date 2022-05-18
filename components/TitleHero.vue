@@ -9,7 +9,7 @@
                 </p>
                 <div class="mt-6">
                     <a href="#"
-                        class="inline-block px-3 py-2 font-semibold text-center text-white transition-colors duration-200 transform bg-blue-500 rounded-md hover:bg-blue-400">
+                        class="inline-block px-3 py-2 font-semibold text-center text-white transition-colors duration-200 transform bg-green-500 rounded-md hover:bg-green-600">
                         Read More</a>
                 </div>
             </div>
