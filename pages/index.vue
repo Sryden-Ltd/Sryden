@@ -2,7 +2,7 @@
   <body>
       <navbar />
       <TitleHero />
-      <PricingSection />
+      <Brands />
       <Footer />
   </body>
 </template>
