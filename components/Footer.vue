@@ -8,7 +8,7 @@
             <a href="/#services" class="mr-4 hover:underline md:mr-6 ">Brands</a>
         </li>
         <li>
-            <a href="/#services" class="mr-4 hover:underline md:mr-6 ">Imprint</a>
+            <a href="/imprint" class="mr-4 hover:underline md:mr-6 ">Imprint</a>
         </li>
         <li>
             <a href="mailto:hello@olliwes.me" class="hover:underline">Contact</a>
