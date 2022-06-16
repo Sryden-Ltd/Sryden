@@ -10,6 +10,23 @@
 <script>
 export default {
     name: "IndexPage",
+    data() {
+      return {
+        title: "Sryden - HomePage",
+      }
+    },
+    head() {
+      return {
+        title: this.title,
+        meta: [
+          {
+            hid: "description",
+            name: "description",
+            content: "Sryden - HomePage",
+          },
+        ],
+      }
+    }
 }
 </script>
 
