@@ -1,7 +1,7 @@
 <template>
   <body>
       <navbar />
-      <Projects />
+        <ImprintHero />
       <Footer />
   </body>
 </template>
@@ -9,7 +9,7 @@
 <script>
 
 export default {
-    name: "ProjectsPage",
+    name: "ImprintPage",
 }
 </script>
 
