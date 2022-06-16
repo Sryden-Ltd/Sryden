@@ -4,7 +4,7 @@
         <div class="flex flex-col items-center w-full lg:flex-row lg:w-1/2">
             <div class="max-w-lg">
                 <h1 class="text-xl tracking-wide text-white text-gray-800 lg:text-3xl lg:text-4xl font-bold"><span class="text-green-500">Sry</span>den</h1>
-                <p class="mt-4 text-gray-300 text-gray-600">Sryden is an independent development studio based out of Scotland, creating software solutions for one of the UK's largest industrial sectors: Web hosting companies
+                <p class="mt-4 text-gray-300 text-gray-600">Sryden is an independent development studio based out of Scotland, creating software solutions for one of the UK's largest industrial sectors: Web hosting companies.
                 </p>
                 <div class="mt-6">
                     <a href="#"
