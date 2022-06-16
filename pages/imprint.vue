@@ -12,7 +12,7 @@ export default {
     name: "ImprintPage",
     data() {
       return {
-        title: "Sryden - Imprint",
+        title: "Sryden | Imprint",
       }
     },
     head() {
@@ -22,7 +22,7 @@ export default {
           {
             hid: "description",
             name: "description",
-            content: "Sryden - Imprint",
+            content: "Sryden is an independent development studio based out of Scotland, creating software solutions for one of the UK's largest industrial sectors: Web hosting companies.",
           },
         ],
       }

@@ -12,7 +12,7 @@ export default {
     name: "IndexPage",
     data() {
       return {
-        title: "Sryden - HomePage",
+        title: "Sryden | Home",
       }
     },
     head() {
@@ -22,7 +22,7 @@ export default {
           {
             hid: "description",
             name: "description",
-            content: "Sryden - HomePage",
+            content: "Sryden is an independent development studio based out of Scotland, creating software solutions for one of the UK's largest industrial sectors: Web hosting companies.",
           },
         ],
       }
