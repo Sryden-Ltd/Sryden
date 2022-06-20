@@ -3,7 +3,7 @@
     <div class="flex flex-col min-h-screen">
         <div class="pt-6">
             <div class="text-center">
-                <h1 class="text-4xl tracking-wide text-white text-gray-800 font-bold">Communications Disclaimer</h1>
+                <h1 class="text-4xl tracking-wide text-white text-gray-800 font-bold">Communication Disclaimer</h1>
             </div>
             <div class="container px-6 py-4 mx-auto">
         <div class="flex flex-col w-full">
