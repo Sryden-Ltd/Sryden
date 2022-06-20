@@ -12,7 +12,7 @@ export default {
     name: "ImprintPage",
     data() {
       return {
-        title: "Sryden | Imprint",
+        title: "Imprint - Sryden",
       }
     },
     head() {

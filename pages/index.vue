@@ -12,7 +12,7 @@ export default {
     name: "IndexPage",
     data() {
       return {
-        title: "Sryden | Home",
+        title: "HomePage - Sryden",
       }
     },
     head() {
